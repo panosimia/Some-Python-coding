@@ -1,0 +1,6 @@
+name=input("What's your name?")
+name="*{0}*".format(name)
+asterisks="*"*len(name)
+print(asterisks)
+print(name)
+print(asterisks)
